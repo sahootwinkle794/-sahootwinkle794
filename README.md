@@ -1,6 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/sahootwinkle794)
 <h1 align="center">Hi 👋, I am Twinkle Sahoo</h1><div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Java+Backend+Developer;Web+Developer;Quick+learner;Self+Motivated&color=teal&center=true" />
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;PHP+Backend+Developer;Web+Developer;Quick+learner;Self+Motivated&color=teal&center=true" />
 </div>
 
 
