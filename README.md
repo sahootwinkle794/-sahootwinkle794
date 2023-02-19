@@ -50,66 +50,63 @@
 <a><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100"></a>
 </td>
 <td width="25%" align="center">
-<p dir="auto"><span>𝗝𝗮𝘃𝗮</span><br><br></p>
-<a><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" height="100"></a>
+<p dir="auto"><span>GitHub</span><br><br></p>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d2821617ebb471dac3033a3e0b8e17c692f6ed59c0c9ad8acdfa7562a6ea6a81/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6769742d69636f6e2e737667"><img height="64px" src="https://camo.githubusercontent.com/d2821617ebb471dac3033a3e0b8e17c692f6ed59c0c9ad8acdfa7562a6ea6a81/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6769742d69636f6e2e737667" data-canonical-src="https://cdn.svgporn.com/logos/git-icon.svg" style="max-width: 100%;"></a>
+</td>
 </td>
 </tr>
 <tr valign="top">
-<td width="25%" align="center">
-<p dir="auto"><span>𝗦𝗽𝗿𝗶𝗻𝗴 𝗕𝗼𝗼𝘁</span><br><br></p>
-<a><img src="https://spring.io/images/projects/spring-edf462fec682b9d48cf628eaf9e19521.svg" height="100"></a>
-</td>
-<td width="25%" align="center">
-<p dir="auto"><span>𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗝 𝗜𝗗𝗘𝗔</span><br><br></p>
-<a><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" height="100"></a>
 
-</td>
 <td width="25%" align="center">
-<p dir="auto"><span>𝗦𝗽𝗿𝗶𝗻𝗴 𝗕𝗼𝗼𝘁 𝗧𝗼𝗼𝗹 𝗦𝘂𝗶𝘁 𝟰</span><br><br></p>
-<a><img src="https://spring.io/images/logo-spring-tools-gear-3dbfa4e3714afa9d58885422ec7ac8e5.svg" height="100"></a>
+<p dir="auto"><span>Postman</span><br><br></p>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d4dcf8fd2bf82734a52774ae132c387357221a5d144ef0356e52c66a2d9f41e9/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d636f64652e737667"><img height="64px" src="https://user-images.githubusercontent.com/103883052/219943045-d69618d6-7e5b-409d-9a05-03268b688f69.png" data-canonical-src="https://cdn.svgporn.com/logos/visual-studio-code.svg" style="max-width: 100%;"></a>
 
 </td>
 <td width="25%" align="center">
 <p dir="auto"><span>Netlify</span><br><br></p>
 <a><img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" height="100"></a>
-</td>
-</tr>
-<tr valign="top">
-<td width="25%" align="center">
-<p dir="auto"><span>𝗟𝗶𝗻𝘂𝘅</span><br><br></p>
-<a><img src="https://www.seekpng.com/png/full/237-2372232_linux-logo-linux-logo.png" height="100"></a>
-</td>
-<td width="25%" align="center">
-<p dir="auto"><span>Heroku</span><br><br></p>
-<a><img src="https://ivangabriele.gallerycdn.vsassets.io/extensions/ivangabriele/vscode-heroku/1.4.3/1563906575407/Microsoft.VisualStudio.Services.Icons.Default" height="100"></a>
-</td>
-<td width="25%" align="center">
-<p dir="auto"><span>𝗚𝗶𝘁</span><br><br></p>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d2821617ebb471dac3033a3e0b8e17c692f6ed59c0c9ad8acdfa7562a6ea6a81/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6769742d69636f6e2e737667"><img height="64px" src="https://camo.githubusercontent.com/d2821617ebb471dac3033a3e0b8e17c692f6ed59c0c9ad8acdfa7562a6ea6a81/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f6769742d69636f6e2e737667" data-canonical-src="https://cdn.svgporn.com/logos/git-icon.svg" style="max-width: 100%;"></a>
-</td>
-<td width="25%" align="center">
-<p dir="auto"><span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br></p>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d4dcf8fd2bf82734a52774ae132c387357221a5d144ef0356e52c66a2d9f41e9/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d636f64652e737667"><img height="64px" src="https://camo.githubusercontent.com/d4dcf8fd2bf82734a52774ae132c387357221a5d144ef0356e52c66a2d9f41e9/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d636f64652e737667" data-canonical-src="https://cdn.svgporn.com/logos/visual-studio-code.svg" style="max-width: 100%;"></a>
-</td>
-</tr>
 
-
-<tr valign="top">
-<td width="25%" align="center">
-<p dir="auto"><span>Rapid API</span><br><br></p>
-<a><img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/reuntzuy6gy8ssnbktye" height="100"></a>
-</td>
-<td width="25%" align="center">
-<p dir="auto"><span>Hibrnate</span><br><br></p>
-<a><img src="http://fruzenshtein.com/wp-content/uploads/2014/01/Hibernate-logo.png" height="100"></a>
 </td>
 <td width="25%" align="center">
 <p dir="auto"><span>My SQL</span><br><br></p>
 <a><img src="https://thepiguy.altervista.org/wp-content/uploads/2017/06/mysql-logo.jpg" height="100"></a>
 </td>
 <td width="25%" align="center">
-<p dir="auto"><span>AWS</span><br><br></p>
-<a><img src="https://marvel-b1-cdn.bc0a.com/f00000000243109/1x5o5mujiug388ttap1p8s17-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/AWS-logo-2.jpg" height="100"></a>
+<p dir="auto"><span>VSCode</span><br><br></p>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d4dcf8fd2bf82734a52774ae132c387357221a5d144ef0356e52c66a2d9f41e9/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d636f64652e737667"><img height="64px" src="https://camo.githubusercontent.com/d4dcf8fd2bf82734a52774ae132c387357221a5d144ef0356e52c66a2d9f41e9/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d636f64652e737667" data-canonical-src="https://cdn.svgporn.com/logos/visual-studio-code.svg" style="max-width: 100%;"></a>
+
+</td>
+</tr>
+<tr valign="top">
+<td width="25%" align="center">
+
+</td>
+<td width="25%" align="center">
+
+</td>
+<td width="25%" align="center">
+<p dir="auto"><span>𝗚𝗶𝘁</span><br><br></p>
+
+</td>
+<td width="25%" align="center">
+<p dir="auto"><span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br></p>
+
+</td>
+</tr>
+
+
+<tr valign="top">
+<td width="25%" align="center">
+
+</td>
+<td width="25%" align="center">
+
+</td>
+<td width="25%" align="center">
+
+</td>
+<td width="25%" align="center">
+ 
 </td>
 </tr>
 </tbody>
