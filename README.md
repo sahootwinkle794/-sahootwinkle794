@@ -93,7 +93,7 @@
 
 </td>
 <td width="25%" align="center">
-<p dir="auto"><span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br></p>
+<p dir="auto"><span>Adobe Photoshop</span><br><br></p>
 <a><img src="https://user-images.githubusercontent.com/103883052/219943623-ef2cdc2c-87d4-4978-8326-313d0ffab29b.png" height="100"></a>
 </td>
 </tr>
