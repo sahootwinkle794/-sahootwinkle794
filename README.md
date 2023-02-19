@@ -69,7 +69,7 @@
 </td>
 <td width="25%" align="center">
 <p dir="auto"><span>My SQL</span><br><br></p>
-<a><img src="https://thepiguy.altervista.org/wp-content/uploads/2017/06/mysql-logo.jpg" height="100"></a>
+<a><img src="https://user-images.githubusercontent.com/103883052/219943333-35149717-270a-473b-b240-695d0da42516.png" height="100"></a>
 </td>
 <td width="25%" align="center">
 <p dir="auto"><span>VSCode</span><br><br></p>
@@ -79,18 +79,22 @@
 </tr>
 <tr valign="top">
 <td width="25%" align="center">
+<p dir="auto"><span>Figma</span><br><br></p>
+<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d4dcf8fd2bf82734a52774ae132c387357221a5d144ef0356e52c66a2d9f41e9/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f76697375616c2d73747564696f2d636f64652e737667"><img height="64px" src="https://user-images.githubusercontent.com/103883052/219943252-7e1e1370-425a-4449-8cb7-d5c37517fc9a.png" data-canonical-src="https://cdn.svgporn.com/logos/visual-studio-code.svg" style="max-width: 100%;"></a>
+</td>
+<td width="25%" align="center">
+<p dir="auto"><span>PHP</span><br><br></p>
+<a><img src="https://user-images.githubusercontent.com/103883052/219943377-c9b57733-00fd-4867-ba55-9f9d3dcc0e99.png" height="100"></a>
 
 </td>
 <td width="25%" align="center">
-
-</td>
-<td width="25%" align="center">
-<p dir="auto"><span>𝗚𝗶𝘁</span><br><br></p>
+<p dir="auto"><span>CodeIgniter</span><br><br></p>
+<a><img src="https://user-images.githubusercontent.com/103883052/219943485-a1c9f6f4-7f64-4e00-9275-0c49c599ed94.png" height="100"></a>
 
 </td>
 <td width="25%" align="center">
 <p dir="auto"><span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br></p>
-
+<a><img src="https://user-images.githubusercontent.com/103883052/219943623-ef2cdc2c-87d4-4978-8326-313d0ffab29b.png" height="100"></a>
 </td>
 </tr>
 
